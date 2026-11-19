@@ -1,4 +1,4 @@
-# Hi, I'm Israël LAWANI 👋
+# Hi, I'm Oriadé LAWANI 👋
 
 Full Stack Developer based in Cotonou, Benin 🇧🇯 — I build web platforms end to end, from the interface to the API, the database and the deployment.
 
