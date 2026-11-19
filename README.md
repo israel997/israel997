@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Israël LAWANI 👋
 
-<!--
-**israel997/israel997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer based in Cotonou, Benin 🇧🇯 — I build web platforms end to end, from the interface to the API, the database and the deployment.
 
-Here are some ideas to get you started:
+## 🚀 What I'm building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**[Ethos](https://ethosepb.com)** : an e-learning platform for entrepreneurs (mentoring, sessions, payments, certificates).
+- **Frontend:** Next.js, TypeScript, Tailwind - deployed on Vercel
+- **Backend:** NestJS API, PostgreSQL, Prisma - deployed on Railway
+- **Features:** custom JWT auth, mobile-money payments (Kkiapay), PDF/QR certificates, transactional emails
+- *Private repository (client code) — read access available on request.*
+
+## 🛠️ Tech stack
+`TypeScript` `JavaScript` `React` `Next.js` `Vue` `Node.js` `NestJS` `PostgreSQL` `Prisma` `Tailwind` `Docker` `Git` `Linux`
+
+## 📌 Other projects
+-**Ooffix** -> A work OS to simplify team work in enterprises
+- **Fluux** -> business management and learning statistics app
+- **Smart Farmer**-> NASA Space Apps hackathon project
+
+## 🎓 Currently
+Learning at Epitech Coding Academy · deepening DevOps & security (Docker, Nginx, CI/CD)
+
+## 📫 Contact
+ginique.lawani@epitech.eu
